@@ -1,0 +1,3 @@
+type://user:pass:ip:port
+type://user:pass@ip:port
+type://ip:port

@@ -1,0 +1,20 @@
+[
+  {
+    "constant": false,
+    "inputs": [
+      {
+        "name": "nodes",
+        "type": "bytes32[]"
+      },
+      {
+        "name": "leafIndex",
+        "type": "uint256"
+      }
+    ],
+    "name": "claim",
+    "outputs": [],
+    "payable": false,
+    "stateMutability": "nonpayable",
+    "type": "function"
+  }
+]
